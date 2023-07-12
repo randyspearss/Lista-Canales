@@ -1,3 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-chno=¨1¨, Playhouse
 http://ttv.bz:80/jRMAWCqMy5/Wi7pzbKj9X/68226
+#EXTINF:0 tvg-rec="0", Solazola
+https://cv-h.phncdn.com/hls/videos/202212/04/420768551/,720P_4000K,480P_2000K,240P_1000K,_420768551.mp4.urlset/index-f1-v1-a1.m3u8?iTghh9_e-JxuUnlvHi8mJXcESBaD72wl_0hVrCwYVnvnqNO-BjVNTKI8DBzkXPDJQx5cTf47qNIrUhn7mLK72l_JFiNVwZUNTXpTPsQ34bwBiYGhB3IWLDVpolaFYCr-4kkOG907YCJn8mgm6tWbSRBhZEbW4MiPnBlgiSJQLyL-gUMvE3dwDMsKw0m2cGsze2rvXVcQyg
